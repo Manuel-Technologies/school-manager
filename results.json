@@ -3,18 +3,99 @@
     "Id": 1,
     "StudentId": 1,
     "CourseId": 1,
-    "Score": 0,
+    "Score": 78,
     "Grade": "A",
-    "Semester": "",
-    "Session": ""
+    "Semester": "First",
+    "Session": "2025/2026"
   },
   {
     "Id": 2,
     "StudentId": 1,
     "CourseId": 2,
-    "Score": 0,
+    "Score": 64,
     "Grade": "B",
-    "Semester": "",
-    "Session": ""
+    "Semester": "First",
+    "Session": "2025/2026"
+  },
+  {
+    "Id": 3,
+    "StudentId": 2,
+    "CourseId": 3,
+    "Score": 72,
+    "Grade": "A",
+    "Semester": "First",
+    "Session": "2025/2026"
+  },
+  {
+    "Id": 4,
+    "StudentId": 2,
+    "CourseId": 2,
+    "Score": 58,
+    "Grade": "C",
+    "Semester": "First",
+    "Session": "2025/2026"
+  },
+  {
+    "Id": 5,
+    "StudentId": 3,
+    "CourseId": 4,
+    "Score": 67,
+    "Grade": "B",
+    "Semester": "First",
+    "Session": "2025/2026"
+  },
+  {
+    "Id": 6,
+    "StudentId": 3,
+    "CourseId": 2,
+    "Score": 61,
+    "Grade": "B",
+    "Semester": "First",
+    "Session": "2025/2026"
+  },
+  {
+    "Id": 7,
+    "StudentId": 4,
+    "CourseId": 5,
+    "Score": 74,
+    "Grade": "A",
+    "Semester": "First",
+    "Session": "2025/2026"
+  },
+  {
+    "Id": 8,
+    "StudentId": 5,
+    "CourseId": 6,
+    "Score": 69,
+    "Grade": "B",
+    "Semester": "First",
+    "Session": "2025/2026"
+  },
+  {
+    "Id": 9,
+    "StudentId": 6,
+    "CourseId": 7,
+    "Score": 55,
+    "Grade": "C",
+    "Semester": "First",
+    "Session": "2025/2026"
+  },
+  {
+    "Id": 10,
+    "StudentId": 7,
+    "CourseId": 8,
+    "Score": 81,
+    "Grade": "A",
+    "Semester": "First",
+    "Session": "2025/2026"
+  },
+  {
+    "Id": 11,
+    "StudentId": 8,
+    "CourseId": 9,
+    "Score": 63,
+    "Grade": "B",
+    "Semester": "First",
+    "Session": "2025/2026"
   }
 ]

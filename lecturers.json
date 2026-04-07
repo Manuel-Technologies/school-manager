@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "Id": 1,
+    "StaffNumber": "STF-CS-001",
+    "FirstName": "Ifeanyi",
+    "LastName": "Nnamdi",
+    "Department": "Computer Science",
+    "Email": "i.nnamdi@unilag.edu.ng",
+    "PhoneNumber": "08061112223",
+    "FullName": "Ifeanyi Nnamdi"
+  },
+  {
+    "Id": 2,
+    "StaffNumber": "STF-NS-002",
+    "FirstName": "Ngozi",
+    "LastName": "Ekwueme",
+    "Department": "Nursing Science",
+    "Email": "n.ekwueme@unilag.edu.ng",
+    "PhoneNumber": "08071112224",
+    "FullName": "Ngozi Ekwueme"
+  },
+  {
+    "Id": 3,
+    "StaffNumber": "STF-MC-003",
+    "FirstName": "Kabiru",
+    "LastName": "Abdullahi",
+    "Department": "Mass Communication",
+    "Email": "k.abdullahi@unilag.edu.ng",
+    "PhoneNumber": "08081112225",
+    "FullName": "Kabiru Abdullahi"
+  },
+  {
+    "Id": 4,
+    "StaffNumber": "STF-EE-004",
+    "FirstName": "Chidinma",
+    "LastName": "Okeke",
+    "Department": "Electrical Engineering",
+    "Email": "c.okeke@unilag.edu.ng",
+    "PhoneNumber": "08091112226",
+    "FullName": "Chidinma Okeke"
+  },
+  {
+    "Id": 5,
+    "StaffNumber": "STF-BCH-005",
+    "FirstName": "Ekanem",
+    "LastName": "Bassey",
+    "Department": "Biochemistry",
+    "Email": "e.bassey@unilag.edu.ng",
+    "PhoneNumber": "08101112227",
+    "FullName": "Ekanem Bassey"
+  }
+]

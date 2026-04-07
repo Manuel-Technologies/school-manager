@@ -1,32 +1,92 @@
 [
   {
     "Id": 1,
-    "Name": "Mathematics",
-    "Instructor": "Dr. Smith",
-    "CourseCode": "101",
-    "Description": "Basic Math Course",
+    "Name": "Introduction to Programming",
+    "Instructor": "Ifeanyi Nnamdi",
+    "CourseCode": "CSC101",
+    "Description": "Foundations of programming using modern problem-solving techniques.",
     "Credits": 3,
-    "LecturerId": null,
-    "Department": "General"
+    "LecturerId": 1,
+    "Department": "Computer Science"
   },
   {
     "Id": 2,
-    "Name": "Physics",
-    "Instructor": "Dr. Johnson",
-    "CourseCode": "102",
-    "Description": "Basic Physics Course",
-    "Credits": 4,
-    "LecturerId": null,
+    "Name": "General Physics",
+    "Instructor": "Chidinma Okeke",
+    "CourseCode": "PHY101",
+    "Description": "Core concepts in mechanics, waves, and electricity.",
+    "Credits": 3,
+    "LecturerId": 4,
     "Department": "General"
   },
   {
     "Id": 3,
     "Name": "Medical Genetics",
-    "Instructor": null,
-    "CourseCode": "BIO 107",
-    "Description": "you go suffer oooo",
-    "Credits": 6,
-    "LecturerId": null,
+    "Instructor": "Ngozi Ekwueme",
+    "CourseCode": "NSC207",
+    "Description": "Basic genetic principles relevant to nursing and health sciences.",
+    "Credits": 3,
+    "LecturerId": 2,
     "Department": "Nursing Science"
+  },
+  {
+    "Id": 4,
+    "Name": "News Writing and Reporting",
+    "Instructor": "Kabiru Abdullahi",
+    "CourseCode": "MAC201",
+    "Description": "Practical reporting, interviewing, and newsroom writing skills.",
+    "Credits": 2,
+    "LecturerId": 3,
+    "Department": "Mass Communication"
+  },
+  {
+    "Id": 5,
+    "Name": "Circuit Theory",
+    "Instructor": "Chidinma Okeke",
+    "CourseCode": "EEE202",
+    "Description": "Analysis of electrical circuits and network theorems.",
+    "Credits": 3,
+    "LecturerId": 4,
+    "Department": "Electrical Engineering"
+  },
+  {
+    "Id": 6,
+    "Name": "Principles of Accounting",
+    "Instructor": null,
+    "CourseCode": "ACC301",
+    "Description": "Preparation and interpretation of financial records.",
+    "Credits": 3,
+    "LecturerId": null,
+    "Department": "Accounting"
+  },
+  {
+    "Id": 7,
+    "Name": "Microeconomics",
+    "Instructor": null,
+    "CourseCode": "ECO301",
+    "Description": "Consumer behavior, markets, firms, and pricing decisions.",
+    "Credits": 3,
+    "LecturerId": null,
+    "Department": "Economics"
+  },
+  {
+    "Id": 8,
+    "Name": "Clinical Biochemistry",
+    "Instructor": "Ekanem Bassey",
+    "CourseCode": "BCH401",
+    "Description": "Biochemical basis of disease and clinical laboratory analysis.",
+    "Credits": 3,
+    "LecturerId": 5,
+    "Department": "Biochemistry"
+  },
+  {
+    "Id": 9,
+    "Name": "Constitutional Law",
+    "Instructor": null,
+    "CourseCode": "LAW401",
+    "Description": "Study of constitutional development and judicial interpretation.",
+    "Credits": 3,
+    "LecturerId": null,
+    "Department": "Law"
   }
 ]

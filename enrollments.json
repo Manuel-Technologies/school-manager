@@ -2,9 +2,89 @@
   {
     "Id": 1,
     "StudentId": 1,
-    "CourseId": 3,
-    "Semester": "first",
+    "CourseId": 1,
+    "Semester": "First",
     "Session": "2025/2026",
     "EnrolledAt": "2026-04-07T13:51:38.3419189Z"
+  },
+  {
+    "Id": 2,
+    "StudentId": 1,
+    "CourseId": 2,
+    "Semester": "First",
+    "Session": "2025/2026",
+    "EnrolledAt": "2026-04-07T13:53:10.0000000Z"
+  },
+  {
+    "Id": 3,
+    "StudentId": 2,
+    "CourseId": 3,
+    "Semester": "First",
+    "Session": "2025/2026",
+    "EnrolledAt": "2026-04-07T13:54:10.0000000Z"
+  },
+  {
+    "Id": 4,
+    "StudentId": 3,
+    "CourseId": 4,
+    "Semester": "First",
+    "Session": "2025/2026",
+    "EnrolledAt": "2026-04-07T13:55:10.0000000Z"
+  },
+  {
+    "Id": 5,
+    "StudentId": 4,
+    "CourseId": 5,
+    "Semester": "First",
+    "Session": "2025/2026",
+    "EnrolledAt": "2026-04-07T13:56:10.0000000Z"
+  },
+  {
+    "Id": 6,
+    "StudentId": 5,
+    "CourseId": 6,
+    "Semester": "First",
+    "Session": "2025/2026",
+    "EnrolledAt": "2026-04-07T13:57:10.0000000Z"
+  },
+  {
+    "Id": 7,
+    "StudentId": 6,
+    "CourseId": 7,
+    "Semester": "First",
+    "Session": "2025/2026",
+    "EnrolledAt": "2026-04-07T13:58:10.0000000Z"
+  },
+  {
+    "Id": 8,
+    "StudentId": 7,
+    "CourseId": 8,
+    "Semester": "First",
+    "Session": "2025/2026",
+    "EnrolledAt": "2026-04-07T13:59:10.0000000Z"
+  },
+  {
+    "Id": 9,
+    "StudentId": 8,
+    "CourseId": 9,
+    "Semester": "First",
+    "Session": "2025/2026",
+    "EnrolledAt": "2026-04-07T14:00:10.0000000Z"
+  },
+  {
+    "Id": 10,
+    "StudentId": 2,
+    "CourseId": 2,
+    "Semester": "First",
+    "Session": "2025/2026",
+    "EnrolledAt": "2026-04-07T14:01:10.0000000Z"
+  },
+  {
+    "Id": 11,
+    "StudentId": 3,
+    "CourseId": 2,
+    "Semester": "First",
+    "Session": "2025/2026",
+    "EnrolledAt": "2026-04-07T14:02:10.0000000Z"
   }
 ]
