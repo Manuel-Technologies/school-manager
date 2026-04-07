@@ -31,6 +31,12 @@ public class Program
         File.WriteAllText("results.json", resultsJson);
 
         Console.WriteLine("Data has been serialized to JSON files.");
+
+        // Read from files and deserialize
+        string readCoursesJson = File.ReadAllText("courses.json");
+        var readCourses = JsonSerializer.Deserialize<Course[]>(readCoursesJson, options);
+        string readResultsJson = File.ReadAllText("results.json");
+        var readResults = JsonSerializer.Deserialize<Result[]>(readResultsJson, options);   
     }
     
 }

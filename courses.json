@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Name": "Mathematics",
+    "Instructor": "Dr. Smith",
+    "courseCode": 101,
+    "Description": "Basic Math Course",
+    "Credits": 3
+  },
+  {
+    "Id": 2,
+    "Name": "Physics",
+    "Instructor": "Dr. Johnson",
+    "courseCode": 102,
+    "Description": "Basic Physics Course",
+    "Credits": 4
+  }
+]
