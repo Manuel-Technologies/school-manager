@@ -3,12 +3,18 @@
     "Id": 1,
     "StudentId": 1,
     "CourseId": 1,
-    "Grade": "A"
+    "Score": 0,
+    "Grade": "A",
+    "Semester": "",
+    "Session": ""
   },
   {
     "Id": 2,
     "StudentId": 1,
     "CourseId": 2,
-    "Grade": "B"
+    "Score": 0,
+    "Grade": "B",
+    "Semester": "",
+    "Session": ""
   }
 ]
